@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
-  <image href="https://github.com/BastienRubix/PowerBI/blob/main/attention.png"
+  <image href="https://raw.githubusercontent.com/BastienRubix/PowerBI/blob/main/attention.png"
          width="200"
          height="80">
     <animate
@@ -9,3 +9,4 @@
       repeatCount="indefinite" />
   </image>
 </svg>
+
